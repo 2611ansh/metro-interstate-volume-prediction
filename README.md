@@ -10,4 +10,4 @@
 - weather_description: |Categorical| Longer textual description of the current weather
 - date_time :|DateTime| Hour of the data collected in local CST time
 - traffic_volume : |Numeric| Hourly I-94 ATR 301 reported westbound traffic volume
-- - Dataset link : https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
+## Dataset link : https://archive.ics.uci.edu/ml/datasets/Metro+Interstate+Traffic+Volume
